@@ -1,7 +1,7 @@
 ![MERN stack](https://raw.githubusercontent.com/HassanAdemuyiwa/HassanAdemuyiwa/main/MERN-Stack-considered-the-Best-for-Developing-Web-Apps%20(1).png)
 ### Hi, I'm Hassan 👋
 
-Passionate software engineer with a particular focus on Javascript – MERN Stack. You can find contributing to Open Source, Mentoring.
+Passionate software engineer with a particular focus on Javascript – MERN Stack. You can find contributing to Open Source and Mentoring.
 
 Here are some ideas to get you started:
  -->
