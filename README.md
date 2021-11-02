@@ -1,16 +1,15 @@
 ### Hi, I'm Hassan 👋
 
-
-<!-- **HassanAdemuyiwa/HassanAdemuyiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate software engineer with a particular focus on Javascript – MERN Stack. You can find contributing to Open Source, Mentoring.
 
 Here are some ideas to get you started:
  -->
-- 🔭 I’m currently working on ...E-Commerce
-- 🌱 I’m currently learning ...AWS
-- 👯 I’m looking to collaborate on ...NODE.JS
-- 🤔 I’m looking for help with ...AWS
-- 💬 Ask me about ...MENTORING
-- 📫 How to reach me: ...[MY EMAIL](ademuyiwahassan68@gmail.com)
-- 😄 Pronouns: ...He/Him
+- 🔭 I’m currently working on ...Javascript
+- 🌱 I’m currently learning ...Anything I get my hands on!
+- 👯 Always looking to collaborate
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about ...Mentoring
+- 📫 Let's connect - [LinkedIn](https://www.linkedin.com/in/hassan-ademuyiwa-b3258211a/)|[Personal website](https://hassan-ademuyiwa.netlify.app/)
+- 😄 Pronouns: ...He/Him/His
 - ⚡ Fun fact: ...I'm Ailurophile😻
 
