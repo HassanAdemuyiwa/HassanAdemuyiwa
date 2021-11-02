@@ -4,7 +4,7 @@
 Passionate software engineer with a particular focus on Javascript – MERN Stack. You can find contributing to Open Source and Mentoring.
 
 
-- 🔭 I’m currently working on ...Javascript
+- 🔭 I’m currently working on ...E-Commerce
 - 🌱 I’m currently learning ...Anything I get my hands on!
 - 👯 Always looking to collaborate
 - 💬 Ask me about ...Javascript
