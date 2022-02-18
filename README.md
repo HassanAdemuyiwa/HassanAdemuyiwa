@@ -12,6 +12,6 @@ Passionate software engineer with a particular focus on Javascript – MERN Stac
 - 😄 Pronouns: ...He/Him/His
 - ⚡ Fun fact: ...I'm Ailurophile😻
 <!-- - 🤔 I’m looking for help with ... -->
-![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=HassanAdemuyiwa&show_icons=true) <br/>
+![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=HassanAdemuyiwa&show_icons=true) <br/> <div style="margin: 50px"></div>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAdemuyiwa&theme=blue-green)
 
