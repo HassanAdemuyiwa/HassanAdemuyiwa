@@ -10,7 +10,7 @@ Passionate software engineer with a particular focus on Javascript – MERN Stac
 - 💬 Ask me about ...Javascript
 - 📫 Let's connect - [LinkedIn](https://www.linkedin.com/in/hassan-ademuyiwa-b3258211a/) | [Personal Website](https://hassan-ademuyiwa.netlify.app/)
 - 😄 Pronouns: ...He/Him/His
-- ⚡ Fun fact: ...I'm Ailurophile😻
+- ⚡ Fun fact: ...I'm an Ailurophile😻
 <!-- - 🤔 I’m looking for help with ... -->
 ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=HassanAdemuyiwa&show_icons=true) <br/> <div style="margin: 50px"></div>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAdemuyiwa&theme=blue-green)
