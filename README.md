@@ -1,4 +1,6 @@
-![MERN stack](https://raw.githubusercontent.com/HassanAdemuyiwa/HassanAdemuyiwa/main/MERN-Stack-considered-the-Best-for-Developing-Web-Apps%20(1).png)
+[comment]: ![MERN stack](https://raw.githubusercontent.com/HassanAdemuyiwa/HassanAdemuyiwa/main/MERN-Stack-considered-the-Best-for-Developing-Web-Apps%20(1).png)
+
+
 [![An image of @hassanademuyiwa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hassanademuyiwa)](https://holopin.io/@hassanademuyiwa)
 ### Hi, I'm Hassan 👋
 
